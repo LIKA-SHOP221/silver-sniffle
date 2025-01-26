@@ -1,4 +1,4 @@
-# silver-sniffle/* Styles généraux */
+* Styles généraux */
 * {
     margin: 0;
     padding: 0;
